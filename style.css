@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+table{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+tr, td {
+    padding: 1rem .5rem;
+    border: 1px solid #ccc;	
+}
+tbody tr:hover {
+    background-color: rgba(51, 51, 51, 0.052);
+}
+thead {
+    background: #333;
+    color: #fff;
+}
+
+
